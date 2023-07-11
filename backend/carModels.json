@@ -1,0 +1,318 @@
+{
+    "car_models": [
+      {
+        "model": "Toyota Prius",
+        "mpg": 56
+      },
+      {
+        "model": "Honda Insight",
+        "mpg": 52
+      },
+      {
+        "model": "Hyundai Ioniq",
+        "mpg": 55
+      },
+      {
+        "model": "Chevrolet Bolt EV",
+        "mpg": 118
+      },
+      {
+        "model": "Tesla Model 3",
+        "mpg": 141
+      },
+      {
+        "model": "Kia Niro",
+        "mpg": 50
+      },
+      {
+        "model": "Lexus CT 200h",
+        "mpg": 42
+      },
+      {
+        "model": "Nissan Leaf",
+        "mpg": 99
+      },
+      {
+        "model": "Ford Fusion Hybrid",
+        "mpg": 43
+      },
+      {
+        "model": "Chevrolet Malibu Hybrid",
+        "mpg": 49
+      },
+      {
+        "model": "Subaru Crosstrek Hybrid",
+        "mpg": 35
+      },
+      {
+        "model": "Toyota Camry Hybrid",
+        "mpg": 46
+      },
+      {
+        "model": "Honda Accord Hybrid",
+        "mpg": 48
+      },
+      {
+        "model": "Audi A3 e-tron",
+        "mpg": 83
+      },
+      {
+        "model": "Ford Escape Hybrid",
+        "mpg": 41
+      },
+      {
+        "model": "Toyota Avalon Hybrid",
+        "mpg": 44
+      },
+      {
+        "model": "Lexus ES 300h",
+        "mpg": 44
+      },
+      {
+        "model": "Hyundai Sonata Hybrid",
+        "mpg": 45
+      },
+      {
+        "model": "Chevrolet Volt",
+        "mpg": 106
+      },
+      {
+        "model": "Chrysler Pacifica Hybrid",
+        "mpg": 82
+      },
+      {
+        "model": "Kia Soul EV",
+        "mpg": 114
+      },
+      {
+        "model": "Kia Optima Hybrid",
+        "mpg": 42
+      },
+      {
+        "model": "Volkswagen e-Golf",
+        "mpg": 119
+      },
+      {
+        "model": "Ford C-Max Hybrid",
+        "mpg": 40
+      },
+      {
+        "model": "BMW i3",
+        "mpg": 124
+      },
+      {
+        "model": "Chevrolet Cruze Diesel",
+        "mpg": 52
+      },
+      {
+        "model": "Chevrolet Malibu",
+        "mpg": 32
+      },
+      {
+        "model": "Honda Civic",
+        "mpg": 36
+      },
+      {
+        "model": "Toyota Corolla",
+        "mpg": 33
+      },
+      {
+        "model": "Nissan Sentra",
+        "mpg": 32
+      },
+      {
+        "model": "Hyundai Elantra",
+        "mpg": 35
+      },
+      {
+        "model": "Kia Forte",
+        "mpg": 35
+      },
+      {
+        "model": "Mazda Mazda3",
+        "mpg": 33
+      },
+      {
+        "model": "Volkswagen Jetta",
+        "mpg": 34
+      },
+      {
+        "model": "Subaru Impreza",
+        "mpg": 31
+      },
+      {
+        "model": "Chevrolet Sonic",
+        "mpg": 29
+      },
+      {
+        "model": "Ford Focus",
+        "mpg": 31
+      },
+      {
+        "model": "Honda Fit",
+        "mpg": 36
+      },
+      {
+        "model": "Toyota Yaris",
+        "mpg": 35
+      },
+      {
+        "model": "Nissan Versa",
+        "mpg": 32
+      },
+      {
+        "model": "Kia Rio",
+        "mpg": 36
+      },
+      {
+        "model": "Hyundai Accent",
+        "mpg": 36
+      },
+      {
+        "model": "Mitsubishi Mirage",
+        "mpg": 39
+      },
+      {
+        "model": "Volkswagen Golf",
+        "mpg": 32
+      },
+      {
+        "model": "Subaru Legacy",
+        "mpg": 30
+      },
+      {
+        "model": "Chevrolet Impala",
+        "mpg": 25
+      },
+      {
+        "model": "Toyota Camry",
+        "mpg": 29
+      },
+      {
+        "model": "Honda Accord",
+        "mpg": 30
+      },
+      {
+        "model": "Nissan Altima",
+        "mpg": 30
+      },
+      {
+        "model": "Hyundai Sonata",
+        "mpg": 31
+      },
+      {
+        "model": "Kia Optima",
+        "mpg": 31
+      },
+      {
+        "model": "Mazda Mazda6",
+        "mpg": 30
+      },
+      {
+        "model": "Volkswagen Passat",
+        "mpg": 29
+      },
+      {
+        "model": "Ford Taurus",
+        "mpg": 24
+      },
+      {
+        "model": "BMW 3 Series",
+        "mpg": 29
+      },
+      {
+        "model": "Mercedes-Benz C-Class",
+        "mpg": 28
+      },
+      {
+        "model": "Audi A4",
+        "mpg": 27
+      },
+      {
+        "model": "Volvo S60",
+        "mpg": 30
+      },
+      {
+        "model": "Jaguar XE",
+        "mpg": 28
+      },
+      {
+        "model": "Lincoln MKZ",
+        "mpg": 27
+      },
+      {
+        "model": "Cadillac CT5",
+        "mpg": 26
+      },
+      {
+        "model": "Tesla Model S",
+        "mpg": 111
+      },
+      {
+        "model": "Porsche Taycan",
+        "mpg": 79
+      },
+      {
+        "model": "Jaguar I-Pace",
+        "mpg": 76
+      },
+      {
+        "model": "Audi e-tron",
+        "mpg": 78
+      },
+      {
+        "model": "Mercedes-Benz EQC",
+        "mpg": 77
+      },
+      {
+        "model": "Ford Mustang",
+        "mpg": 25
+      },
+      {
+        "model": "Chevrolet Corvette",
+        "mpg": 19
+      },
+      {
+        "model": "Toyota",
+        "mpg": 27
+      },
+      {
+        "model": "Hyundai",
+        "mpg": 28
+      },
+      {
+        "model": "BMW",
+        "mpg": 25
+      },
+      {
+        "model": "Ford",
+        "mpg": 27
+      },
+      {
+        "model": "Toyota",
+        "mpg": 27
+      },
+      {
+        "model": "Ford",
+        "mpg": 27
+      },
+      {
+        "model": "Chevrolet",
+        "mpg": 27
+      },
+      {
+        "model": "Nissan",
+        "mpg": 27
+      },
+      {
+        "model": "Kia",
+        "mpg": 27
+      },
+      {
+        "model": "Honda",
+        "mpg": 26
+      }
+    ]
+}
+     
+  
