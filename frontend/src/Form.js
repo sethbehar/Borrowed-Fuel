@@ -9,7 +9,7 @@ const Form = ( { setMpg, setDistance }) => {
     e.preventDefault();
 
     try {
-      const response = await axios.post('http://localhost:3000/form', { carModel });
+      const response = await axios.post('https://us-central1-borrowedfuel.cloudfunctions.net/api/form', { carModel });
       const { mpg } = response.data;
       carModel === '' ? setMpg(0) : setMpg(mpg)
     } catch (error) {

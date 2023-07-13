@@ -9,7 +9,7 @@ function GasPrice( {setGasPrice} ) {
 
   const fetchGasPrice = async () => {
     try {
-      const response = await axios.get('http://localhost:3000/gas-price')
+      const response = await axios.get('https://us-central1-borrowedfuel.cloudfunctions.net/api/gas-price')
       const { gasPrice } = response.data
       setGasPrice(gasPrice);
     } catch (error) {
