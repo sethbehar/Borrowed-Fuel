@@ -1,6 +1,4 @@
-# Borrowed-Fuel
-
-## borrowedfuel.web.app
+# Borrowed-Fuel borrowedfuel.web.app
 
 This is a web application that allows users to calculate the total cost of a trip based on the Miles Per Gallon (MPG) of a car, the distance traveled, and the gas price per gallon.
 
