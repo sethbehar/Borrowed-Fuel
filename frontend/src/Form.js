@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import './styles/form.css'
+import './styles/styles.css'
 
 const Form = ( { setMpg, setDistance }) => {
   const [carModel, setCarModel] = useState('');
@@ -12,6 +12,7 @@ const Form = ( { setMpg, setDistance }) => {
       const response = await axios.post('https://us-central1-borrowedfuel.cloudfunctions.net/api/form', { carModel });
       const { mpg } = response.data;
       carModel === '' ? setMpg(0) : setMpg(mpg)
+      console.log(distance)
     } catch (error) {
       console.error('Error submitting form:', error);
     }
