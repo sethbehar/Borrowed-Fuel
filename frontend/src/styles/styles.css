@@ -55,6 +55,8 @@ input:focus {
     color: black;
     padding: 2rem;
     font-size: 1.2rem;
+    flex-wrap: wrap;
+    gap: 1rem;
 }
 
 .results-container p {
